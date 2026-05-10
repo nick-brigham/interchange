@@ -1,0 +1,12 @@
+streamlit==1.45.0
+torch==2.6.0
+transformers==4.51.3
+peft==0.15.1
+pandas==2.2.3
+sentence-transformers==4.1.0
+chromadb==1.0.7
+huggingface-hub==0.30.2
+accelerate==1.6.0
+sentencepiece==0.2.0
+protobuf==5.29.4
+tokenizers==0.21.0

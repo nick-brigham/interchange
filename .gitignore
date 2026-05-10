@@ -1,0 +1,19 @@
+# Data files
+data/raw/
+data/processed/
+data/test/
+
+# Model weights (too large for GitHub)
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Build logs
+build_log.txt
+fix_trl.py
